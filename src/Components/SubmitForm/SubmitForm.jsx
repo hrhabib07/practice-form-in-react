@@ -17,8 +17,6 @@ const SubmitForm = () => {
                 <input type="password" name="password" />
                 <br />
                 <input type="submit" value="Submit" />
-                
-
             </form>
         </div>
     );
